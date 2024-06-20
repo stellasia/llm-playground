@@ -1,0 +1,9 @@
+# neo4j-genai
+git+https://github.com/neo4j/neo4j-genai-python.git
+neo4j
+ollama
+sentence-transformers
+jupyter
+python-dotenv
+Pillow
+langchain-community
