@@ -9,7 +9,7 @@ to install them.
 
 ## Neo4j GenAI package applications
 
-### Multimodal RAG
+### Multimodal RAG (2024-06)
 
 - [Folder](./neo4j-genai/multimodal_ollama)
 
