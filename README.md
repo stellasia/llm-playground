@@ -14,6 +14,6 @@ to install them.
 - [Folder](./neo4j-genai/multimodal_ollama)
 
 
-## Knowledge Graph Construction with LLMs - a quick intro 2024-04
+## Knowledge Graph Construction with LLMs 
 
-[Folder](./kg_construction)
+- [Prompt engineering](./kg_construction/prompt_engineering_april_2024) (a quick intro from 2024-04)
